@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.colors {
+  height: 500px;
+  display: flex;
+}
+.colors-card {
+  background-color: blue;
+  flex: 1;
+}
